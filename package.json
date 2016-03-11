@@ -1,0 +1,19 @@
+{
+  "name": "appleevent-miguhruiz",
+  "version": "1.0.0",
+  "description": "An application to cover the apple event. March 21.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galaxy42/AppleEvent-MiguhRuiz.git"
+  },
+  "author": "@MiguhRuiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Galaxy42/AppleEvent-MiguhRuiz/issues"
+  },
+  "homepage": "https://github.com/Galaxy42/AppleEvent-MiguhRuiz#readme"
+}
