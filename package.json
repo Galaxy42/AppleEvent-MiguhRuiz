@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Galaxy42/AppleEvent-MiguhRuiz/issues"
   },
-  "homepage": "https://github.com/Galaxy42/AppleEvent-MiguhRuiz#readme"
+  "homepage": "https://github.com/Galaxy42/AppleEvent-MiguhRuiz#readme",
+  "devDependencies": {
+    "jquery": "^2.2.1"
+  }
 }
